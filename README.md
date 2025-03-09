@@ -22,3 +22,4 @@ This is an AI-powered chat application built with React (frontend) and Node.js/E
 - Node.js
 - Express
 - Hugging Face API
+- MongoDB
